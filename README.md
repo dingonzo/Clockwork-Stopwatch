@@ -43,6 +43,5 @@ Launch the `index.html` file in any modern web browser (Chrome, Firefox, Edge, S
 
 ```
 
-## 👤 Author
-
-* **Edgar Gonzalez** - [dingonzo](https://github.com/dingonzo)
+## Author
+[dingonzo](https://github.com/dingonzo)
