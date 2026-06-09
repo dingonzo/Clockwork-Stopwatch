@@ -1,11 +1,4 @@
 # Clockwork-Stopwatch
-Here is a clean, professional `README.md` tailored for your **Clockwork-Stopwatch** repository. It uses a clear hierarchy and highlights the frontend stack you used.
-
----
-
-# Clockwork-Stopwatch
-
-A clean, responsive web-based stopwatch application built using vanilla JavaScript, HTML5, and CSS3.
 
 ## Features
 
