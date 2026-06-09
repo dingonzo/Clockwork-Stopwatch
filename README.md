@@ -7,19 +7,19 @@ Here is a clean, professional `README.md` tailored for your **Clockwork-Stopwatc
 
 A clean, responsive web-based stopwatch application built using vanilla JavaScript, HTML5, and CSS3.
 
-## 🚀 Features
+## Features
 
 * **Precise Timing:** Accurate time tracking using native JavaScript event handling.
 * **Responsive Design:** Designed with a clean layout that adapts nicely to different screen sizes.
 * **Modular Code:** Separates structure (`index.html`), presentation (`clock.css`), and logic (`clock.js`, `library_event.js`) for easier maintenance and readability.
 
-## 🛠️ Built With
+## Built With
 
 * **JavaScript (ES6+)** - Core application logic and event handling
 * **HTML5** - Semantic structure
 * **CSS3** - Custom styling and layout
 
-## 📦 Getting Started
+## Getting Started
 
 To run this project locally, you don't need to install any heavy packages or run a local server. Simply follow these steps:
 
@@ -40,13 +40,13 @@ cd Clockwork-Stopwatch
 3. **Open the application:**
 Launch the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── index.html         # Main markup file
 ├── clock.css          # Styling and layout rules
 ├── clock.js           # Core stopwatch behavior
-└── library_event.js   # Helper functions / event management library
+└── library_event.js   # Helper functions/event management library
 
 ```
 
